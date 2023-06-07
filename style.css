@@ -9,9 +9,9 @@ body {
     padding: 15vh;
 }
 
-/* section {
+section {
     display: block;
-} */
+}
 
 #clothes-box {
     display: flex;
