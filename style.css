@@ -16,7 +16,7 @@ section {
 #clothes-box {
     display: flex;
     justify-content: center;
-    padding: 0 4%;
+    padding: 0 3%;
     flex-wrap: wrap;
     flex-direction: row;
     margin: auto;
@@ -28,11 +28,11 @@ section {
 /*     background-color: yellow; */
     display: flex;
     justify-content: center;
-    padding: 0 4%;
+    padding: 0 3%;
     flex-wrap: wrap;
     flex-direction: row;
     margin: auto;
-    flex-grow: 5;
+/*     flex-grow: 5; */
     /* flex: 5 0 50px; */
 }
 
