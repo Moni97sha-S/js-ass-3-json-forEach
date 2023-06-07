@@ -16,7 +16,7 @@ section {
 #clothes-box {
     display: flex;
     justify-content: center;
-    padding: 0 3%;
+    padding: 0 4%;
     flex-wrap: wrap;
     flex-direction: row;
     margin: auto;
@@ -28,7 +28,7 @@ section {
 /*     background-color: yellow; */
     display: flex;
     justify-content: center;
-    padding: 0 3%;
+    padding: 0 4%;
     flex-wrap: wrap;
     flex-direction: row;
     margin: auto;
@@ -49,7 +49,7 @@ section {
 
 .card {
     width: 100px;
-    min-width: 180px;
+    min-width: 150px;
     height: auto;
     margin: 30px 10px;
     cursor: pointer;
